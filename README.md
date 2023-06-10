@@ -86,7 +86,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > - [Live Demo on Gh-pages](https://ab-noori.github.io/bookstore-cms/)
-> - [Live Demo on Render](https://math-magicians-ab.onrender.com)
+> - [Live Demo on Render](https://bookstore-cms-demo.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
