@@ -86,7 +86,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > - [Live Demo on Gh-pages](https://ab-noori.github.io/bookstore-cms/)
-> - [Live Demo on Render](https://math-magicians-ab.onrender.com)
+> - [Live Demo on Render](https://bookstore-cms-demo.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,7 +143,7 @@ Clone this repository to your desired folder:
 
 - 2- Add `'homepage'` to project's jason file:
 
-      "homepage": "https://ab-noori.github.oi/bookstore-cms",
+      "homepage": "https://ab-noori.github.io/bookstore-cms",
 
 - 3- Add the following scripts to project's jason file:
 
