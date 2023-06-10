@@ -23,7 +23,7 @@
 
 -->
 
-> # Template
+> # Bookstore CMS
 
 | Desktop Veiw Representation|
 |---------------------------------------|
@@ -57,9 +57,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Template] <a name="about-project"></a>
+# 📖 [Bookstore-CMS] <a name="about-project"></a>
 
-> **[Temaplate]** is a project template with ready README file for creating react applications.  
+> **[Bookstore-CMS]** is a project template with ready README file for creating react applications.  
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -85,7 +85,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> - [Live Demo on Gh-pages](https://ab-noori.github.io/math-magicians/)
+> - [Live Demo on Gh-pages](https://ab-noori.github.io/bookstore-cms/)
 > - [Live Demo on Render](https://math-magicians-ab.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -110,7 +110,7 @@ Clone this repository to your desired folder:
 - Use the following Commands:
 
       cd your-desired-folder
-      git clone git@github.com:ab-noori/template.git
+      git clone git@github.com:ab-noori/bookstore-cms.git
 
 
 ### Install
@@ -143,7 +143,7 @@ Clone this repository to your desired folder:
 
 - 2- Add `'homepage'` to project's jason file:
 
-      "homepage": "https://ab-noori.github.oi/repo-name",
+      "homepage": "https://ab-noori.github.oi/bookstore-cms",
 
 - 3- Add the following scripts to project's jason file:
 
@@ -178,7 +178,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](#).
+Feel free to check the [issues page](https://github.com/ab-noori/bookstore-cms/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
