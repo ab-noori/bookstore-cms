@@ -25,7 +25,7 @@
 
 > # Bookstore CMS
 
-| Desktop Veiw Representation|
+| Desktop View Representation|
 |---------------------------------------|
 |<div align="center"><img src="./project-image.png" alt="screenshot" width="auto" height="auto"/></div>|
 |<div align="center"><img src="./project-image.png" alt="screenshot" width="auto" height="auto"/></div>|
@@ -66,10 +66,8 @@
 ### Tech Stack <a name="tech-stack"></a>
 - <summary>Client</summary>
     <ul>
-      <li><a href="https://reactjs.org/">HTML</a></li>
-      <li><a href="https://reactjs.org/">CSS</a></li>
-      <li><a href="https://reactjs.org/">JavaScript</a></li>
-      <li><a href="https://reactjs.org/">ReactJS</a></li>
+      <li><a href="https://reactjs.org/">React</a></li>
+      <li><a href="https://reactjs.org/">Redux</a></li>
       <li><a href="https://reactjs.org/">API</a></li>
     </ul>
 
@@ -99,7 +97,7 @@ To get a local copy up and running, follow these steps:
 ### Prerequisites
 
 In order to run this project you need:
-  - A browser of you choice.
+  - A browser of your choice.
   - A text editor of your choice.
   - An installed node.js on your local system
 
@@ -122,7 +120,7 @@ Clone this repository to your desired folder:
 
 
 ### Usage
-- Use following commands to run on your local system:
+- Use the following commands to run on your local system:
 
       npm run build
       npm run deploy
@@ -137,15 +135,15 @@ Clone this repository to your desired folder:
       npx stylelint "**/*.{css,scss}" --fix
  
 ### Deployment
-- 1- install `'gh-pages'` with following command:
+- 1- install `gh-pages` with the following command:
 
       npm i -D gh-pages
 
-- 2- Add `'homepage'` to project's jason file:
+- 2- Add `homepage` to project's Jason file:
 
       "homepage": "https://ab-noori.github.io/bookstore-cms",
 
-- 3- Add the following scripts to project's jason file:
+- 3- Add the following scripts to the project's Jason file:
 
       "predeploy": "npm run build",
       "deploy": "gh-pages -d build "
