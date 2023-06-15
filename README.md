@@ -27,9 +27,7 @@
 
 | Desktop View Representation|
 |---------------------------------------|
-|<div align="center"><img src="./project-image.png" alt="screenshot" width="auto" height="auto"/></div>|
-|<div align="center"><img src="./project-image.png" alt="screenshot" width="auto" height="auto"/></div>|
-|<div align="center"><img src="./project-image.png" alt="screenshot" width="auto" height="auto"/></div>|
+|<div align="center"><img src="./src/assets/project-image.jpg" alt="screenshot" width="auto" height="auto"/></div>|
 
 <!-- TABLE OF CONTENTS -->
 
@@ -84,7 +82,6 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > - [Live Demo on Gh-pages](https://ab-noori.github.io/bookstore-cms/)
-> - [Live Demo on Render](https://bookstore-cms-demo.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
