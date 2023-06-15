@@ -1,10 +1,10 @@
 import React from 'react';
-import PropTypes from 'prop-types';
-import { useDispatch } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import Book from './Book';
 import { removeBook } from '../redux/books/booksSlice';
 
-const BookList = ({ books }) => {
+const BookList = () => {
+  const books = useSelector((state) => state.books.books);
   const dispatch = useDispatch();
 
   const handleDelete = (id) => {
@@ -23,16 +23,6 @@ const BookList = ({ books }) => {
       </ul>
     </div>
   );
-};
-
-BookList.propTypes = {
-  books: PropTypes.arrayOf(
-    PropTypes.shape({
-      id: PropTypes.string.isRequired,
-      title: PropTypes.string.isRequired,
-      author: PropTypes.string.isRequired,
-    }),
-  ).isRequired,
 };
 
 export default BookList;
