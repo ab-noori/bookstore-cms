@@ -57,7 +57,7 @@
 
 # 📖 [Bookstore-CMS] <a name="about-project"></a>
 
-> **[Bookstore-CMS]** is a project template with ready README file for creating react applications.  
+> **[Bookstore-CMS]** Using React and Redux in the context of a real application to create a simplified version of Bookstore to: Display a list of books, Add a book and Remove a selected book.  
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -187,8 +187,8 @@ Feel free to check the [issues page](https://github.com/ab-noori/bookstore-cms/i
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-  I would like to thank Microverse and my coding partners. Also I want to give credit to [`Nerd's lesson`](https://www.youtube.com/@Nerdslesson)
-YouTub Channel, it's [`react tutorial`](https://www.youtube.com/watch?v=cd3P3yXyx30) is really helpfull.
+  I would like to thank Microverse and my coding partners. Also, I want to give credit to [`Nerd's lesson`](https://www.youtube.com/@Nerdslesson)
+YouTub Channel, its [`react tutorial`](https://www.youtube.com/watch?v=cd3P3yXyx30) is really helpful.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,7 +201,7 @@ YouTub Channel, it's [`react tutorial`](https://www.youtube.com/watch?v=cd3P3yXy
 
 - **How to design the site?**
 
-  - Draw a mockup before start to code
+  - Draw a mockup before starting to code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
