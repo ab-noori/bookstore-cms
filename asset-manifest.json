@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bookstore-cms/static/css/main.6d98e39d.css",
-    "main.js": "/bookstore-cms/static/js/main.224c3c3c.js",
+    "main.js": "/bookstore-cms/static/js/main.96412193.js",
     "index.html": "/bookstore-cms/index.html",
     "main.6d98e39d.css.map": "/bookstore-cms/static/css/main.6d98e39d.css.map",
-    "main.224c3c3c.js.map": "/bookstore-cms/static/js/main.224c3c3c.js.map"
+    "main.96412193.js.map": "/bookstore-cms/static/js/main.96412193.js.map"
   },
   "entrypoints": [
     "static/css/main.6d98e39d.css",
-    "static/js/main.224c3c3c.js"
+    "static/js/main.96412193.js"
   ]
 }
