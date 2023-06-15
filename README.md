@@ -25,11 +25,9 @@
 
 > # Bookstore CMS
 
-| Desktop Veiw Representation|
+| Desktop View Representation|
 |---------------------------------------|
-|<div align="center"><img src="./project-image.png" alt="screenshot" width="auto" height="auto"/></div>|
-|<div align="center"><img src="./project-image.png" alt="screenshot" width="auto" height="auto"/></div>|
-|<div align="center"><img src="./project-image.png" alt="screenshot" width="auto" height="auto"/></div>|
+|<div align="center"><img src="./src/assets/project-image.jpg" alt="screenshot" width="auto" height="auto"/></div>|
 
 <!-- TABLE OF CONTENTS -->
 
@@ -59,17 +57,15 @@
 
 # 📖 [Bookstore-CMS] <a name="about-project"></a>
 
-> **[Bookstore-CMS]** is a project template with ready README file for creating react applications.  
+> **[Bookstore-CMS]** Using React and Redux in the context of a real application to create a simplified version of Bookstore to: Display a list of books, Add a book and Remove a selected book.  
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 - <summary>Client</summary>
     <ul>
-      <li><a href="https://reactjs.org/">HTML</a></li>
-      <li><a href="https://reactjs.org/">CSS</a></li>
-      <li><a href="https://reactjs.org/">JavaScript</a></li>
-      <li><a href="https://reactjs.org/">ReactJS</a></li>
+      <li><a href="https://reactjs.org/">React</a></li>
+      <li><a href="https://reactjs.org/">Redux</a></li>
       <li><a href="https://reactjs.org/">API</a></li>
     </ul>
 
@@ -86,7 +82,6 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > - [Live Demo on Gh-pages](https://ab-noori.github.io/bookstore-cms/)
-> - [Live Demo on Render](https://bookstore-cms-demo.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +94,7 @@ To get a local copy up and running, follow these steps:
 ### Prerequisites
 
 In order to run this project you need:
-  - A browser of you choice.
+  - A browser of your choice.
   - A text editor of your choice.
   - An installed node.js on your local system
 
@@ -122,7 +117,7 @@ Clone this repository to your desired folder:
 
 
 ### Usage
-- Use following commands to run on your local system:
+- Use the following commands to run on your local system:
 
       npm run build
       npm run deploy
@@ -137,15 +132,15 @@ Clone this repository to your desired folder:
       npx stylelint "**/*.{css,scss}" --fix
  
 ### Deployment
-- 1- install `'gh-pages'` with following command:
+- 1- install `gh-pages` with the following command:
 
       npm i -D gh-pages
 
-- 2- Add `'homepage'` to project's jason file:
+- 2- Add `homepage` to project's Jason file:
 
       "homepage": "https://ab-noori.github.io/bookstore-cms",
 
-- 3- Add the following scripts to project's jason file:
+- 3- Add the following scripts to the project's Jason file:
 
       "predeploy": "npm run build",
       "deploy": "gh-pages -d build "
@@ -192,8 +187,8 @@ Feel free to check the [issues page](https://github.com/ab-noori/bookstore-cms/i
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-  I would like to thank Microverse and my coding partners. Also I want to give credit to [`Nerd's lesson`](https://www.youtube.com/@Nerdslesson)
-YouTub Channel, it's [`react tutorial`](https://www.youtube.com/watch?v=cd3P3yXyx30) is really helpfull.
+  I would like to thank Microverse and my coding partners. Also, I want to give credit to [`Nerd's lesson`](https://www.youtube.com/@Nerdslesson)
+YouTub Channel, its [`react tutorial`](https://www.youtube.com/watch?v=cd3P3yXyx30) is really helpful.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,7 +201,7 @@ YouTub Channel, it's [`react tutorial`](https://www.youtube.com/watch?v=cd3P3yXy
 
 - **How to design the site?**
 
-  - Draw a mockup before start to code
+  - Draw a mockup before starting to code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
