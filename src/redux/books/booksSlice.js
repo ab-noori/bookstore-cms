@@ -1,4 +1,3 @@
-// src/redux/books/booksSlice.js
 import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {

@@ -1,4 +1,3 @@
-// src/redux/categories/categoriesSlice.js
 import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {
