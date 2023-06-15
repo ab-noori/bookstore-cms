@@ -66,10 +66,8 @@
 ### Tech Stack <a name="tech-stack"></a>
 - <summary>Client</summary>
     <ul>
-      <li><a href="https://reactjs.org/">HTML</a></li>
-      <li><a href="https://reactjs.org/">CSS</a></li>
-      <li><a href="https://reactjs.org/">JavaScript</a></li>
-      <li><a href="https://reactjs.org/">ReactJS</a></li>
+      <li><a href="https://reactjs.org/">React</a></li>
+      <li><a href="https://reactjs.org/">Redux</a></li>
       <li><a href="https://reactjs.org/">API</a></li>
     </ul>
 
@@ -122,7 +120,7 @@ Clone this repository to your desired folder:
 
 
 ### Usage
-- Use following commands to run on your local system:
+- Use the following commands to run on your local system:
 
       npm run build
       npm run deploy
