@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600;700&family=Roboto+Slab:wght@300;400;500;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+}
+
+body {
+  padding: 2% 4%;
+  background-color: #f5f6fa;
+}
+
+#root {
+  margin: 0;
+  padding: 0 0 8% 0;
+  min-height: 85vh;
+  position: relative;
+  border-radius: 4px;
+  box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.05);
+  background-color: #fafafa;
+}
+
+.container {
+  padding: 4%;
+}
