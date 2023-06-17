@@ -1,3 +1,4 @@
+// BookForm.js
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { addBook } from '../redux/books/booksSlice';
@@ -10,13 +11,15 @@ const BookForm = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     const newBook = {
-      id: Date.now().toString(),
+      item_id: Date.now().toString(),
       title,
       author,
+      category: 'Non-Fiction',
     };
-    dispatch(addBook(newBook));
-    setTitle('');
-    setAuthor('');
+    dispatch(addBook(newBook)).then(() => {
+      setTitle('');
+      setAuthor('');
+    });
   };
 
   return (

@@ -20,7 +20,7 @@ const BookList = () => {
       <h2>Books</h2>
       <ul>
         {books.map((book) => (
-          <li key={book.item_id}>
+          <li key={book.id}>
             <Book book={book} onDelete={() => handleDelete(book.id)} />
           </li>
         ))}
