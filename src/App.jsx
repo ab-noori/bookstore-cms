@@ -17,7 +17,7 @@ function App() {
         </Routes>
       </main>
       <footer>
-        <p className="copyright">&copy; 2023 Bookstor CMS | Developed by Abdulali Noori</p>
+        <p className="copyright">&copy; 2023 Bookstore CMS | Developed by Abdulali Noori</p>
       </footer>
     </>
   );

@@ -1,0 +1,12 @@
+.primary-color {
+  color: #0290ff;
+}
+
+.icon-button {
+  cursor: pointer;
+  width: 2.813rem;
+  height: 2.813rem;
+  border-radius: 50%;
+  border: solid 1px #e8e8e8;
+  background-color: white;
+}
