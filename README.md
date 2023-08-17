@@ -27,7 +27,7 @@
 
 | Desktop View Representation|
 |---------------------------------------|
-|<div align="center"><img src="https://github.com/microverseinc/curriculum-rails/blob/main/blog-app/images/blog_app_erd.png" width="auto" height="auto"/></div>|
+|<div align="center"><img src="./src/assets/project-image.PNG " width="auto" height="auto"/></div>|
 
 <!-- TABLE OF CONTENTS -->
 
